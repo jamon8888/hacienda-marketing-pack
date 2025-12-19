@@ -151,8 +151,10 @@ hacienda-marketing-pack/
 
 Chaque skill contient :
 - `SKILL.md` - Instructions complètes avec approche socratique
-- `references/` - Frameworks et méthodologies détaillés
-- `scripts/` - Script Python d'analyse
+- `references/` - Frameworks et méthodologies détaillés + glossaire et templates
+- `scripts/` - Script Python d'analyse + utilitaires locaux
+
+**Note** : Chaque skill est **complètement autonome** avec tous les utilitaires et références nécessaires copiés localement. Pas de dépendance au dossier `shared/`.
 
 ## 📖 Documentation
 

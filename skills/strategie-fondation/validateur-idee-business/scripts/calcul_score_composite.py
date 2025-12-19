@@ -8,10 +8,10 @@ Framework 10 Dimensions pour Hacienda Marketing Pack
 import sys
 import os
 
-# Ajouter le chemin vers les utilitaires partagés
-script_dir = os.path.dirname(os.path.abspath(__file__))
-shared_scripts = os.path.abspath(os.path.join(script_dir, '../../../../shared/scripts'))
-sys.path.insert(0, shared_scripts)
+# Importer les utilitaires locaux (copiés dans ce skill)
+# Les utilitaires sont maintenant dans le même répertoire
+# Pas besoin de modifier sys.path car les fichiers sont locaux
+
 
 from utils_scoring import calculer_score_composite, evaluer_niveau
 from utils_visualisation import creer_barre_progression, creer_graphique_barres, creer_boite_info

@@ -10,8 +10,10 @@ Ce document résume la structure complète du **Hacienda Marketing Pack**, une b
 
 Chaque skill comprend :
 - **SKILL.md** : Instructions complètes avec approche socratique (<600 lignes optimisé)
-- **references/** : 2-3 frameworks détaillés en markdown
-- **scripts/** : 1 script Python d'analyse fonctionnel
+- **references/** : 2-3 frameworks détaillés en markdown + glossaire-strategie.md + templates-rapports.md
+- **scripts/** : 1 script Python d'analyse fonctionnel + 3 utilitaires locaux (utils_scoring.py, utils_visualisation.py, utils_contexte.py)
+
+**Important** : Chaque skill est **complètement autonome** avec tous les fichiers nécessaires copiés localement pour permettre une utilisation indépendante.
 
 #### Catégorie : Stratégie Fondation (7 skills)
 1. ✅ `validateur-idee-business` - Validation 10D avec scoring complet
@@ -89,13 +91,17 @@ Chaque skill comprend :
 | Type | Quantité | Notes |
 |------|----------|-------|
 | SKILL.md | 27 | Un par skill, approche socratique |
-| Frameworks .md | ~65 | 2-3 par skill |
-| Scripts .py (skills) | 27 | Un par skill |
-| Scripts .py (shared) | 3 | Utilitaires partagés |
+| Frameworks .md (spécifiques) | ~38 | 2-3 par skill |
+| Frameworks .md (dupliqués) | 54 | glossaire + templates × 27 skills |
+| Scripts .py (spécifiques) | 27 | Un par skill |
+| Scripts .py (utils dupliqués) | 81 | 3 utilitaires × 27 skills |
+| Scripts .py (shared original) | 3 | Utilitaires partagés originaux |
 | Chaineurs .md | 6 | Instructions de parcours |
-| Références .md | 2 | Glossaire + templates |
-| Documentation | 3 | README, GUIDE, .gitignore |
-| **TOTAL** | **~133** | **Fichiers créés** |
+| Références .md (shared) | 2 | Glossaire + templates originaux |
+| Documentation | 4 | README, GUIDE, PROJET-RESUME, .gitignore |
+| **TOTAL** | **~243** | **Fichiers créés** |
+
+**Note importante** : Chaque skill dispose maintenant de copies locales des utilitaires et références, permettant une utilisation complètement autonome sans dépendance au dossier `shared/`.
 
 ### Lignes de Code et Documentation
 
