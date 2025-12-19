@@ -94,6 +94,30 @@ Proposer le skill suivant : **veille-concurrentielle**
 - [ ] Rapport sauvegardé dans .hacienda/
 - [ ] Skill suivant proposé
 
+
+## ⚠️ Disclaimer Important
+
+**Ce skill, aussi puissant soit-il, génère un draft - pas une vérité absolue.**
+
+📝 **Utilise ton esprit critique** :
+- Les analyses et recommandations sont des points de départ, pas des conclusions finales
+- Valide les hypothèses avec des données réelles et des retours terrain
+- Adapte les frameworks à ton contexte spécifique
+- Questionne les suggestions qui ne résonnent pas avec ton expérience
+
+🧠 **Ton jugement naturel est irremplaçable** :
+- Tu connais ton marché, tes clients, ton équipe mieux que n'importe quel framework
+- Les nuances et subtilités de ton projet nécessitent ton expertise humaine
+- Utilise ce skill comme un guide, pas comme une recette à suivre aveuglément
+
+💡 **Prochaines étapes recommandées** :
+- Partage les outputs avec ton équipe, des mentors, des advisors
+- Teste les recommandations avec de vrais clients
+- Itère et affine en fonction des retours du terrain
+- Reviens sur ce skill tous les 3-6 mois pour mettre à jour
+
+> **En résumé** : Ce skill t'aide à structurer ta réflexion et à poser les bonnes questions. C'est un co-pilote intelligent, pas un pilote automatique. Garde le contrôle ! ✈️
+
 ## Données de Chaînage
 
 ```yaml

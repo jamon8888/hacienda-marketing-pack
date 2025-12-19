@@ -52,6 +52,15 @@ Hacienda Marketing Pack est une bibliothèque complète de skills pour Claude De
 - Calculs automatisés (RICE, TAM/SAM/SOM, scores composites)
 - Visualisations ASCII pour le terminal
 
+### ⚠️ Important : Esprit Critique Requis
+Chaque skill génère des **analyses et recommandations comme point de départ** - pas comme vérité absolue. Les outputs sont des drafts à affiner avec :
+- ✅ Votre jugement et expertise propre
+- ✅ Validation terrain avec de vraies données
+- ✅ Feedback de votre équipe, mentors, clients
+- ✅ Adaptation à votre contexte spécifique
+
+**Les skills sont des co-pilotes intelligents, pas des pilotes automatiques.** Gardez le contrôle !
+
 ## 🚀 Démarrage Rapide
 
 ### 1. Installation

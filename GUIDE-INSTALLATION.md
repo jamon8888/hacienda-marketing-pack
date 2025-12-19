@@ -172,6 +172,31 @@ nom-du-skill/
 
 ---
 
+## ⚠️ Important : Utilisation Responsable
+
+### Les Skills sont des Guides, pas des Vérités Absolues
+
+**Chaque skill génère des analyses et recommandations comme point de départ** - pas comme vérité absolue. Les outputs sont des drafts intelligents qui nécessitent votre validation.
+
+📝 **Utilise ton esprit critique** :
+- Les analyses sont des points de départ pour la réflexion
+- Valide toujours avec des données réelles et du feedback terrain
+- Adapte les frameworks à ton contexte spécifique
+- Questionne ce qui ne résonne pas avec ton expérience
+
+🧠 **Ton jugement est irremplaçable** :
+- Tu connais ton marché, tes clients, ton équipe
+- Les nuances de ton projet nécessitent ton expertise humaine
+- Les skills sont des co-pilotes, pas des pilotes automatiques
+
+💡 **Bonnes Pratiques** :
+- Partage les outputs avec ton équipe et des mentors
+- Teste les recommandations avec de vrais clients
+- Itère en fonction des retours terrain
+- Reviens sur les skills tous les 3-6 mois pour mettre à jour
+
+---
+
 ## 🚀 Utilisation
 
 ### Démarrage Rapide
